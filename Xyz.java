@@ -4,4 +4,8 @@ public class Xyz
 	{
 		System.out.println("Just for Demo");
 	}
+	public void testMethod()
+	{
+		System.out.println("For Testing purpose");
+	}
 }
